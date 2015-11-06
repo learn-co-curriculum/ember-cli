@@ -11,6 +11,8 @@ You may recall that CLI is short for Command Line Interface - a program you run 
 
 You'll use the CLI extensively throughout your project's development. You'll generate boilerplate code, spin up a server, and run your tests all with the Ember CLI. It will be a valuable tool throughout the development of your Ember app.
 
+If you're coming from Rails, you will notice many similarities between the Ember CLI and the [Rails CLI](http://guides.rubyonrails.org/command_line.html).
+
 ## Getting Started
 Getting started should be pretty straight forward. Run this command in your terminal:
 ####`npm install ember-cli -g`
